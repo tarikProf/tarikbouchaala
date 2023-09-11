@@ -78,10 +78,14 @@
 </a>
 </p> 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikbouchaala&show_icons=true&locale=en&layout=compact" alt="tarikbouchaala" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikbouchaala&show_icons=true&locale=en" alt="tarikbouchaala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikbouchaala&" alt="tarikbouchaala" /></p>
-
+    <p>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikbouchaala&show_icons=true&locale=en&layout=compact" alt="tarikbouchaala" />
+    </p>
+    <p>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikbouchaala&layout=compact&langs_count=8&card_width=320" alt="tarikbouchaala" />
+    </p>
+    <p>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikbouchaala&" alt="tarikbouchaala" />
+    </p>
 </p>
 
